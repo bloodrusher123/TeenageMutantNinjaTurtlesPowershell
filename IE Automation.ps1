@@ -52,7 +52,7 @@ Start-Sleep -Seconds 10
 [System.Windows.Forms.SendKeys]::Sendwait("uirobot1");
 [System.Windows.Forms.SendKeys]::Sendwait("{TAB}");
 start-sleep -Seconds 2
-[System.Windows.Forms.SendKeys]::Sendwait("pANFsz!8z0zmB");
+[System.Windows.Forms.SendKeys]::Sendwait("<ENTER PASSWORD>");
 Start-Sleep -Seconds 2
 [System.Windows.Forms.SendKeys]::Sendwait("{ENTER}");
 
