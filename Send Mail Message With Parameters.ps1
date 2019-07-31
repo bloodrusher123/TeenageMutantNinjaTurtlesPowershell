@@ -1,5 +1,5 @@
-$From = "jasonbateman1991@gmail.com"
-$To = "jasonbateman1991@live.com"
+$From = "Test@email.com"
+$To = "Test@email.com"
 $Subject = "Testing PS Email Sender"
 $Body = "Test Body Text"
 $SMTPServer = "smtp.gmail.com"
